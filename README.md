@@ -2,7 +2,7 @@
 A real-time news scraping and recommendation system for users to browse news and recommend news to users.
 
 ## Architecture
-![](https://github.com/kangming1412/News-Recommendation/blob/master/readme-images/tap-news-architecture.png)
+![](https://github.com/kangming1412/HotNewsForYou/blob/master/architecture_img.png)
 
 ## Technology Stacks
 JavaScript, React, Node.js, Express, Redis, MongoDB, Tensorflow, NLP. 
